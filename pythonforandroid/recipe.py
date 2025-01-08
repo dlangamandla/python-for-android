@@ -4,7 +4,6 @@ import hashlib
 import json
 from re import match
 
-import sh
 import shutil
 import fnmatch
 import zipfile
